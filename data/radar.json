@@ -1,0 +1,50 @@
+{
+  "updatedAt": "2026-08-17T20:51:25.165864+00:00",
+  "quotes": {
+    "2330": {
+      "code": "2330",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "price": 2400.0,
+      "change": 5.0,
+      "changePct": 0.20876826722338201,
+      "volume": 13445406,
+      "updatedAt": "2026-08-17T20:51:15.482033+00:00"
+    },
+    "2317": {
+      "code": "2317",
+      "name": "Hon Hai Precision Industry Co., Ltd.",
+      "price": 255.0,
+      "change": -8.0,
+      "changePct": -3.041825095057034,
+      "volume": 35437804,
+      "updatedAt": "2026-08-17T20:51:18.059437+00:00"
+    },
+    "2454": {
+      "code": "2454",
+      "name": "MediaTek Inc.",
+      "price": 4050.0,
+      "change": 30.0,
+      "changePct": 0.7462686567164178,
+      "volume": 10543952,
+      "updatedAt": "2026-08-17T20:51:20.505014+00:00"
+    },
+    "2382": {
+      "code": "2382",
+      "name": "Quanta Computer Inc.",
+      "price": 333.5,
+      "change": 18.0,
+      "changePct": 5.705229793977813,
+      "volume": 29691181,
+      "updatedAt": "2026-08-17T20:51:22.881280+00:00"
+    },
+    "3037": {
+      "code": "3037",
+      "name": "Unimicron Technology Corp.",
+      "price": 1120.0,
+      "change": 128.0,
+      "changePct": 12.903225806451612,
+      "volume": 53744981,
+      "updatedAt": "2026-08-17T20:51:25.164949+00:00"
+    }
+  }
+}
