@@ -27,6 +27,10 @@ BRANCHES = {
     "富邦-建國": {"broker": "富邦", "brokerCode": "9600", "branchCode": "9658"},
     "富邦-南屯": {"broker": "富邦", "brokerCode": "9600", "branchCode": "9666"},
     "富邦-北港": {"broker": "富邦", "brokerCode": "9600", "branchCode": "0039003600390043"},
+    "富邦證券": {"broker": "富邦", "brokerCode": "9600", "branchCode": "9600"},
+    "凱基證券": {"broker": "凱基", "brokerCode": "9200", "branchCode": "9200"},
+    "元大證券": {"broker": "元大", "brokerCode": "9800", "branchCode": "9800"},
+    "國票證券": {"broker": "國票", "brokerCode": "7790", "branchCode": "7790"},
 }
 
 
