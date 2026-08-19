@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-08-18T23:48:24.314663+00:00",
+  "updatedAt": "2026-08-19T01:12:05.757463+00:00",
   "quotes": {
     "2330": {
       "code": "2330",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
       "price": 2380.0,
-      "change": -35.0,
-      "changePct": -1.4492753623188406,
-      "volume": 17294892,
-      "updatedAt": "2026-08-18T23:48:23.919999+00:00"
+      "change": -55.0,
+      "changePct": -2.2587268993839835,
+      "volume": null,
+      "updatedAt": "2026-08-19T01:12:05.081230+00:00"
     },
     "2317": {
       "code": "2317",
       "name": "Hon Hai Precision Industry Co., Ltd.",
       "price": 249.0,
-      "change": -21.0,
-      "changePct": -7.777777777777778,
-      "volume": 48047465,
-      "updatedAt": "2026-08-18T23:48:24.015698+00:00"
+      "change": -13.0,
+      "changePct": -4.961832061068702,
+      "volume": null,
+      "updatedAt": "2026-08-19T01:12:05.257626+00:00"
     },
     "2454": {
       "code": "2454",
       "name": "MediaTek Inc.",
       "price": 3885.0,
-      "change": -130.0,
-      "changePct": -3.23785803237858,
-      "volume": 8388357,
-      "updatedAt": "2026-08-18T23:48:24.102986+00:00"
+      "change": -340.0,
+      "changePct": -8.04733727810651,
+      "volume": null,
+      "updatedAt": "2026-08-19T01:12:05.421643+00:00"
     },
     "2382": {
       "code": "2382",
       "name": "Quanta Computer Inc.",
       "price": 327.0,
-      "change": 1.5,
-      "changePct": 0.4608294930875576,
-      "volume": 13777590,
-      "updatedAt": "2026-08-18T23:48:24.196247+00:00"
+      "change": 2.0,
+      "changePct": 0.6153846153846154,
+      "volume": null,
+      "updatedAt": "2026-08-19T01:12:05.585837+00:00"
     },
     "3037": {
       "code": "3037",
@@ -43,8 +43,8 @@
       "price": 1145.0,
       "change": 145.0,
       "changePct": 14.499999999999998,
-      "volume": 36601847,
-      "updatedAt": "2026-08-18T23:48:24.313885+00:00"
+      "volume": null,
+      "updatedAt": "2026-08-19T01:12:05.756740+00:00"
     }
   }
 }
