@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T04:02:11.077317+00:00",
+  "updatedAt": "2026-08-21T04:55:09.670132+00:00",
   "quotes": {
     "2330": {
       "code": "2330",
@@ -7,44 +7,44 @@
       "price": 2400.0,
       "change": 0.0,
       "changePct": 0.0,
-      "volume": 8416650,
-      "updatedAt": "2026-08-21T04:02:10.666141+00:00"
+      "volume": 10116182,
+      "updatedAt": "2026-08-21T04:55:09.129682+00:00"
     },
     "2317": {
       "code": "2317",
       "name": "Hon Hai Precision Industry Co., Ltd.",
-      "price": 245.0,
-      "change": -10.0,
-      "changePct": -3.9215686274509802,
-      "volume": 14150233,
-      "updatedAt": "2026-08-21T04:02:10.777167+00:00"
+      "price": 245.5,
+      "change": -9.5,
+      "changePct": -3.7254901960784315,
+      "volume": 16868905,
+      "updatedAt": "2026-08-21T04:55:09.255875+00:00"
     },
     "2454": {
       "code": "2454",
       "name": "MediaTek Inc.",
-      "price": 3765.0,
-      "change": -285.0,
-      "changePct": -7.037037037037037,
-      "volume": 3997193,
-      "updatedAt": "2026-08-21T04:02:10.864436+00:00"
+      "price": 3760.0,
+      "change": -290.0,
+      "changePct": -7.160493827160494,
+      "volume": 4626964,
+      "updatedAt": "2026-08-21T04:55:09.396698+00:00"
     },
     "2382": {
       "code": "2382",
       "name": "Quanta Computer Inc.",
-      "price": 322.0,
-      "change": -11.5,
-      "changePct": -3.4482758620689653,
-      "volume": 4300792,
-      "updatedAt": "2026-08-21T04:02:10.956577+00:00"
+      "price": 321.0,
+      "change": -12.5,
+      "changePct": -3.7481259370314843,
+      "volume": 5882451,
+      "updatedAt": "2026-08-21T04:55:09.549898+00:00"
     },
     "3037": {
       "code": "3037",
       "name": "Unimicron Technology Corp.",
-      "price": 1065.0,
-      "change": -55.0,
-      "changePct": -4.910714285714286,
-      "volume": 18810692,
-      "updatedAt": "2026-08-21T04:02:11.076513+00:00"
+      "price": 1080.0,
+      "change": -40.0,
+      "changePct": -3.571428571428571,
+      "volume": 20161180,
+      "updatedAt": "2026-08-21T04:55:09.669480+00:00"
     }
   }
 }
