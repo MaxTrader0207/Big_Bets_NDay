@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T01:15:34.106359+00:00",
+  "updatedAt": "2026-08-26T02:41:29.254386+00:00",
   "quotes": {
     "2330": {
       "code": "2330",
@@ -7,44 +7,44 @@
       "price": 2400.0,
       "change": 25.0,
       "changePct": 1.0526315789473684,
-      "volume": null,
-      "updatedAt": "2026-08-26T01:15:33.392898+00:00"
+      "volume": 6548014,
+      "updatedAt": "2026-08-26T02:41:28.857338+00:00"
     },
     "2317": {
       "code": "2317",
       "name": "Hon Hai Precision Industry Co., Ltd.",
-      "price": 243.0,
-      "change": -3.5,
-      "changePct": -1.4198782961460445,
-      "volume": null,
-      "updatedAt": "2026-08-26T01:15:33.576105+00:00"
+      "price": 246.0,
+      "change": -0.5,
+      "changePct": -0.2028397565922921,
+      "volume": 10861042,
+      "updatedAt": "2026-08-26T02:41:28.961531+00:00"
     },
     "2454": {
       "code": "2454",
       "name": "MediaTek Inc.",
-      "price": 3735.0,
-      "change": 35.0,
-      "changePct": 0.945945945945946,
-      "volume": null,
-      "updatedAt": "2026-08-26T01:15:33.763806+00:00"
+      "price": 3900.0,
+      "change": 200.0,
+      "changePct": 5.405405405405405,
+      "volume": 3567250,
+      "updatedAt": "2026-08-26T02:41:29.058981+00:00"
     },
     "2382": {
       "code": "2382",
       "name": "Quanta Computer Inc.",
-      "price": 328.5,
-      "change": 1.5,
-      "changePct": 0.45871559633027525,
-      "volume": null,
-      "updatedAt": "2026-08-26T01:15:33.933684+00:00"
+      "price": 329.0,
+      "change": 2.0,
+      "changePct": 0.6116207951070336,
+      "volume": 2270798,
+      "updatedAt": "2026-08-26T02:41:29.152162+00:00"
     },
     "3037": {
       "code": "3037",
       "name": "Unimicron Technology Corp.",
-      "price": 1095.0,
-      "change": -45.0,
-      "changePct": -3.9473684210526314,
-      "volume": null,
-      "updatedAt": "2026-08-26T01:15:34.105604+00:00"
+      "price": 1140.0,
+      "change": 0.0,
+      "changePct": 0.0,
+      "volume": 9185286,
+      "updatedAt": "2026-08-26T02:41:29.253598+00:00"
     }
   }
 }
