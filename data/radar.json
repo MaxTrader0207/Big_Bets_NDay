@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-09-02T23:20:20.254396+00:00",
+  "updatedAt": "2026-09-03T01:18:27.478573+00:00",
   "quotes": {
     "2330": {
       "code": "2330",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
       "price": 2385.0,
-      "change": -25.0,
-      "changePct": -1.0373443983402488,
-      "volume": 19825721,
-      "updatedAt": "2026-09-02T23:20:19.843753+00:00"
+      "change": -35.0,
+      "changePct": -1.4462809917355373,
+      "volume": null,
+      "updatedAt": "2026-09-03T01:18:27.130984+00:00"
     },
     "2317": {
       "code": "2317",
       "name": "Hon Hai Precision Industry Co., Ltd.",
       "price": 251.0,
-      "change": -1.0,
-      "changePct": -0.3968253968253968,
-      "volume": 27815114,
-      "updatedAt": "2026-09-02T23:20:19.986468+00:00"
+      "change": -2.0,
+      "changePct": -0.7905138339920948,
+      "volume": null,
+      "updatedAt": "2026-09-03T01:18:27.236862+00:00"
     },
     "2454": {
       "code": "2454",
       "name": "MediaTek Inc.",
       "price": 4275.0,
-      "change": 410.0,
-      "changePct": 10.608020698576972,
-      "volume": 21619969,
-      "updatedAt": "2026-09-02T23:20:20.076887+00:00"
+      "change": 290.0,
+      "changePct": 7.277289836888332,
+      "volume": null,
+      "updatedAt": "2026-09-03T01:18:27.326631+00:00"
     },
     "2382": {
       "code": "2382",
       "name": "Quanta Computer Inc.",
       "price": 337.0,
-      "change": 3.5,
-      "changePct": 1.0494752623688157,
-      "volume": 9238885,
-      "updatedAt": "2026-09-02T23:20:20.172603+00:00"
+      "change": 4.5,
+      "changePct": 1.3533834586466165,
+      "volume": null,
+      "updatedAt": "2026-09-03T01:18:27.404740+00:00"
     },
     "3037": {
       "code": "3037",
       "name": "Unimicron Technology Corp.",
       "price": 973.0,
-      "change": -207.0,
-      "changePct": -17.542372881355934,
-      "volume": 24775451,
-      "updatedAt": "2026-09-02T23:20:20.253914+00:00"
+      "change": -137.0,
+      "changePct": -12.342342342342343,
+      "volume": null,
+      "updatedAt": "2026-09-03T01:18:27.477686+00:00"
     }
   }
 }
