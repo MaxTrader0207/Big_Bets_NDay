@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-09-03T23:25:54.444356+00:00",
+  "updatedAt": "2026-09-04T01:10:53.809334+00:00",
   "quotes": {
     "2330": {
       "code": "2330",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
       "price": 2390.0,
-      "change": -30.0,
-      "changePct": -1.2396694214876034,
-      "volume": 12602565,
-      "updatedAt": "2026-09-03T23:25:53.632830+00:00"
+      "change": -15.0,
+      "changePct": -0.6237006237006237,
+      "volume": null,
+      "updatedAt": "2026-09-04T01:10:53.410784+00:00"
     },
     "2317": {
       "code": "2317",
       "name": "Hon Hai Precision Industry Co., Ltd.",
       "price": 247.5,
-      "change": -5.5,
-      "changePct": -2.1739130434782608,
-      "volume": 28712515,
-      "updatedAt": "2026-09-03T23:25:53.871211+00:00"
+      "change": -2.5,
+      "changePct": -1.0,
+      "volume": null,
+      "updatedAt": "2026-09-04T01:10:53.564192+00:00"
     },
     "2454": {
       "code": "2454",
       "name": "MediaTek Inc.",
       "price": 4340.0,
-      "change": 355.0,
-      "changePct": 8.90840652446675,
-      "volume": 8318790,
-      "updatedAt": "2026-09-03T23:25:54.048593+00:00"
+      "change": 415.0,
+      "changePct": 10.573248407643312,
+      "volume": null,
+      "updatedAt": "2026-09-04T01:10:53.639158+00:00"
     },
     "2382": {
       "code": "2382",
       "name": "Quanta Computer Inc.",
       "price": 335.0,
-      "change": 2.5,
-      "changePct": 0.7518796992481203,
-      "volume": 11610832,
-      "updatedAt": "2026-09-03T23:25:54.230300+00:00"
+      "change": -3.5,
+      "changePct": -1.03397341211226,
+      "volume": null,
+      "updatedAt": "2026-09-04T01:10:53.733539+00:00"
     },
     "3037": {
       "code": "3037",
       "name": "Unimicron Technology Corp.",
       "price": 923.0,
-      "change": -187.0,
-      "changePct": -16.846846846846848,
-      "volume": 31790987,
-      "updatedAt": "2026-09-03T23:25:54.443912+00:00"
+      "change": -76.0,
+      "changePct": -7.6076076076076085,
+      "volume": null,
+      "updatedAt": "2026-09-04T01:10:53.808692+00:00"
     }
   }
 }
