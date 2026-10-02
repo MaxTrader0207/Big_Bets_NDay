@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T01:24:16.034124+00:00",
+  "updatedAt": "2026-10-02T07:19:26.118510+00:00",
   "date": "2026-10-02",
   "dates": [
     "2026-09-25",
@@ -241,13 +241,211 @@
           "net": -34124
         }
       ],
-      "2026-10-01": [],
+      "2026-10-01": [
+        {
+          "code": "00981A",
+          "name": "主動統一台股增長",
+          "buy": 1110206,
+          "sell": 125993,
+          "net": 984213
+        },
+        {
+          "code": "00403A",
+          "name": "主動統一升級50",
+          "buy": 827161,
+          "sell": 97865,
+          "net": 729296
+        },
+        {
+          "code": "00830",
+          "name": "國泰費城半導體",
+          "buy": 547221,
+          "sell": 11335,
+          "net": 535886
+        },
+        {
+          "code": "00991A",
+          "name": "主動復華未來50",
+          "buy": 466045,
+          "sell": 77059,
+          "net": 388986
+        },
+        {
+          "code": "00409A",
+          "name": "主動復華全球50",
+          "buy": 253863,
+          "sell": 10947,
+          "net": 242916
+        },
+        {
+          "code": "00402A",
+          "name": "主動安聯美國科技",
+          "buy": 134675,
+          "sell": 4763,
+          "net": 129912
+        },
+        {
+          "code": "00893",
+          "name": "國泰智能電動車",
+          "buy": 113311,
+          "sell": 1019,
+          "net": 112292
+        },
+        {
+          "code": "00712",
+          "name": "復華富時不動產",
+          "buy": 107441,
+          "sell": 3648,
+          "net": 103793
+        },
+        {
+          "code": "00988A",
+          "name": "主動統一全球創新",
+          "buy": 90400,
+          "sell": 11777,
+          "net": 78623
+        },
+        {
+          "code": "00929",
+          "name": "復華台灣科技優息",
+          "buy": 85893,
+          "sell": 18088,
+          "net": 67805
+        },
+        {
+          "code": "009820",
+          "name": "元大納斯達克精選",
+          "buy": 60610,
+          "sell": 2936,
+          "net": 57674
+        },
+        {
+          "code": "00927",
+          "name": "群益半導體收益",
+          "buy": 19144,
+          "sell": 410159,
+          "net": -391015
+        },
+        {
+          "code": "00919",
+          "name": "群益台灣精選高息",
+          "buy": 47820,
+          "sell": 259572,
+          "net": -211752
+        },
+        {
+          "code": "00937B",
+          "name": "群益ESG投等債20",
+          "buy": 14606,
+          "sell": 173406,
+          "net": -158800
+        },
+        {
+          "code": "009816",
+          "name": "凱基台灣TOP50",
+          "buy": 17033,
+          "sell": 113434,
+          "net": -96401
+        },
+        {
+          "code": "00918",
+          "name": "大華優利高填息30",
+          "buy": 8729,
+          "sell": 85588,
+          "net": -76859
+        }
+      ],
       "2026-10-02": []
     },
     "元大-土城永寧": {
       "2026-09-25": [],
       "2026-09-28": [],
-      "2026-09-29": [],
+      "2026-09-29": [
+        {
+          "code": "00406A",
+          "name": "主動中信台灣收益",
+          "buy": 11782,
+          "sell": 40,
+          "net": 11742
+        },
+        {
+          "code": "00937B",
+          "name": "群益ESG投等債20",
+          "buy": 5221,
+          "sell": 138,
+          "net": 5083
+        },
+        {
+          "code": "00637L",
+          "name": "元大滬深300正2",
+          "buy": 2332,
+          "sell": 91,
+          "net": 2241
+        },
+        {
+          "code": "00988A",
+          "name": "主動統一全球創新",
+          "buy": 2291,
+          "sell": 329,
+          "net": 1962
+        },
+        {
+          "code": "00687B",
+          "name": "國泰20年美債",
+          "buy": 1604,
+          "sell": 0,
+          "net": 1604
+        },
+        {
+          "code": "009816",
+          "name": "凱基台灣TOP50",
+          "buy": 1882,
+          "sell": 338,
+          "net": 1544
+        },
+        {
+          "code": "00918",
+          "name": "大華優利高填息30",
+          "buy": 1598,
+          "sell": 136,
+          "net": 1462
+        },
+        {
+          "code": "00927",
+          "name": "群益半導體收益",
+          "buy": 1501,
+          "sell": 157,
+          "net": 1344
+        },
+        {
+          "code": "00631L",
+          "name": "元大台灣50正2",
+          "buy": 1491,
+          "sell": 249,
+          "net": 1242
+        },
+        {
+          "code": "00400A",
+          "name": "主動國泰動能高息",
+          "buy": 170,
+          "sell": 2056,
+          "net": -1886
+        },
+        {
+          "code": "00900",
+          "name": "富邦特選高股息30",
+          "buy": 41,
+          "sell": 1195,
+          "net": -1154
+        },
+        {
+          "code": "00999A",
+          "name": "主動野村臺灣高息",
+          "buy": 0,
+          "sell": 1127,
+          "net": -1127
+        }
+      ],
       "2026-09-30": [
         {
           "code": "00919",
@@ -385,7 +583,22 @@
           "net": 2023
         }
       ],
-      "2026-09-30": [],
+      "2026-09-30": [
+        {
+          "code": "00830",
+          "name": "國泰費城半導體",
+          "buy": 21122,
+          "sell": 0,
+          "net": 21122
+        },
+        {
+          "code": "009828",
+          "name": "中信台日韓PCB",
+          "buy": 302,
+          "sell": 1471,
+          "net": -1169
+        }
+      ],
       "2026-10-01": [
         {
           "code": "00919",
@@ -3848,16 +4061,5 @@
       "2026-10-02": []
     }
   },
-  "errors": {
-    "凱基-台北|2026-09-28": "HTTPSConnectionPool(host='fubon-ebrokerdj.fbs.com.tw', port=443): Read timed out. (read timeout=30)",
-    "凱基-台北|2026-10-01": "HTTPSConnectionPool(host='fubon-ebrokerdj.fbs.com.tw', port=443): Read timed out. (read timeout=30)",
-    "凱基-台北|2026-10-02": "HTTPSConnectionPool(host='fubon-ebrokerdj.fbs.com.tw', port=443): Read timed out. (read timeout=30)",
-    "元大-土城永寧|2026-09-25": "HTTPSConnectionPool(host='fubon-ebrokerdj.fbs.com.tw', port=443): Read timed out. (read timeout=30)",
-    "元大-土城永寧|2026-09-28": "HTTPSConnectionPool(host='fubon-ebrokerdj.fbs.com.tw', port=443): Read timed out. (read timeout=30)",
-    "元大-土城永寧|2026-09-29": "HTTPSConnectionPool(host='fubon-ebrokerdj.fbs.com.tw', port=443): Read timed out. (read timeout=30)",
-    "元大-土城永寧|2026-10-02": "HTTPSConnectionPool(host='fubon-ebrokerdj.fbs.com.tw', port=443): Read timed out. (read timeout=30)",
-    "國票-敦北法人|2026-09-28": "HTTPSConnectionPool(host='fubon-ebrokerdj.fbs.com.tw', port=443): Read timed out. (read timeout=30)",
-    "國票-敦北法人|2026-09-30": "HTTPSConnectionPool(host='fubon-ebrokerdj.fbs.com.tw', port=443): Read timed out. (read timeout=30)",
-    "國票-敦北法人|2026-10-02": "HTTPSConnectionPool(host='fubon-ebrokerdj.fbs.com.tw', port=443): Read timed out. (read timeout=30)"
-  }
+  "errors": {}
 }
