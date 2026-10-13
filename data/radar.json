@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-10-13T03:29:52.848302+00:00",
+  "updatedAt": "2026-10-13T11:01:25.643284+00:00",
   "quotes": {
     "2330": {
       "code": "2330",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "price": 2500.0,
-      "change": -85.0,
-      "changePct": -3.2882011605415857,
-      "volume": 24813836,
-      "updatedAt": "2026-10-13T03:29:52.092402+00:00"
+      "price": 2490.0,
+      "change": -95.0,
+      "changePct": -3.67504835589942,
+      "volume": 40545889,
+      "updatedAt": "2026-10-13T11:01:25.186139+00:00"
     },
     "2317": {
       "code": "2317",
       "name": "Hon Hai Precision Industry Co., Ltd.",
-      "price": 240.5,
-      "change": -15.5,
-      "changePct": -6.0546875,
-      "volume": 29824455,
-      "updatedAt": "2026-10-13T03:29:52.329120+00:00"
+      "price": 240.0,
+      "change": -16.0,
+      "changePct": -6.25,
+      "volume": 44843051,
+      "updatedAt": "2026-10-13T11:01:25.293529+00:00"
     },
     "2454": {
       "code": "2454",
       "name": "MediaTek Inc.",
-      "price": 4515.0,
-      "change": -405.0,
-      "changePct": -8.231707317073171,
-      "volume": 5347849,
-      "updatedAt": "2026-10-13T03:29:52.499293+00:00"
+      "price": 4525.0,
+      "change": -395.0,
+      "changePct": -8.028455284552846,
+      "volume": 8191113,
+      "updatedAt": "2026-10-13T11:01:25.432608+00:00"
     },
     "2382": {
       "code": "2382",
       "name": "Quanta Computer Inc.",
-      "price": 323.5,
-      "change": -10.0,
-      "changePct": -2.998500749625187,
-      "volume": 6294962,
-      "updatedAt": "2026-10-13T03:29:52.640456+00:00"
+      "price": 323.0,
+      "change": -10.5,
+      "changePct": -3.1484257871064467,
+      "volume": 10536319,
+      "updatedAt": "2026-10-13T11:01:25.536725+00:00"
     },
     "3037": {
       "code": "3037",
@@ -43,8 +43,8 @@
       "price": 1180.0,
       "change": -130.0,
       "changePct": -9.923664122137405,
-      "volume": 8981800,
-      "updatedAt": "2026-10-13T03:29:52.847376+00:00"
+      "volume": 15871513,
+      "updatedAt": "2026-10-13T11:01:25.642497+00:00"
     }
   }
 }
