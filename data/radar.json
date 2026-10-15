@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-10-15T01:53:08.988151+00:00",
+  "updatedAt": "2026-10-15T07:00:53.417876+00:00",
   "quotes": {
     "2330": {
       "code": "2330",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "price": 2445.0,
-      "change": -105.0,
-      "changePct": -4.117647058823529,
-      "volume": 18116520,
-      "updatedAt": "2026-10-15T01:53:08.269880+00:00"
+      "price": 2440.0,
+      "change": -110.0,
+      "changePct": -4.313725490196078,
+      "volume": 57820478,
+      "updatedAt": "2026-10-15T07:00:53.022047+00:00"
     },
     "2317": {
       "code": "2317",
       "name": "Hon Hai Precision Industry Co., Ltd.",
-      "price": 239.0,
-      "change": -10.0,
-      "changePct": -4.016064257028113,
-      "volume": 13519102,
-      "updatedAt": "2026-10-15T01:53:08.416082+00:00"
+      "price": 239.5,
+      "change": -9.5,
+      "changePct": -3.815261044176707,
+      "volume": 48438668,
+      "updatedAt": "2026-10-15T07:00:53.110843+00:00"
     },
     "2454": {
       "code": "2454",
       "name": "MediaTek Inc.",
-      "price": 4270.0,
-      "change": -420.0,
-      "changePct": -8.955223880597014,
-      "volume": 6125695,
-      "updatedAt": "2026-10-15T01:53:08.559798+00:00"
+      "price": 4165.0,
+      "change": -525.0,
+      "changePct": -11.194029850746269,
+      "volume": 18514362,
+      "updatedAt": "2026-10-15T07:00:53.197153+00:00"
     },
     "2382": {
       "code": "2382",
       "name": "Quanta Computer Inc.",
-      "price": 319.0,
-      "change": -6.5,
-      "changePct": -1.9969278033794162,
-      "volume": 2642517,
-      "updatedAt": "2026-10-15T01:53:08.845428+00:00"
+      "price": 316.5,
+      "change": -9.0,
+      "changePct": -2.7649769585253456,
+      "volume": 15421586,
+      "updatedAt": "2026-10-15T07:00:53.322777+00:00"
     },
     "3037": {
       "code": "3037",
       "name": "Unimicron Technology Corp.",
-      "price": 1100.0,
-      "change": -170.0,
-      "changePct": -13.385826771653544,
-      "volume": 6826504,
-      "updatedAt": "2026-10-15T01:53:08.987373+00:00"
+      "price": 1075.0,
+      "change": -195.0,
+      "changePct": -15.354330708661418,
+      "volume": 29104625,
+      "updatedAt": "2026-10-15T07:00:53.417199+00:00"
     }
   }
 }
