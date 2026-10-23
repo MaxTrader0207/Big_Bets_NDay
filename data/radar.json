@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T22:59:43.246242+00:00",
+  "updatedAt": "2026-10-23T01:23:47.184464+00:00",
   "quotes": {
     "2330": {
       "code": "2330",
@@ -7,44 +7,44 @@
       "price": 2385.0,
       "change": -35.0,
       "changePct": -1.4462809917355373,
-      "volume": 22930116,
-      "updatedAt": "2026-10-22T22:59:42.697984+00:00"
+      "volume": null,
+      "updatedAt": "2026-10-23T01:23:46.587141+00:00"
     },
     "2317": {
       "code": "2317",
       "name": "Hon Hai Precision Industry Co., Ltd.",
       "price": 245.0,
-      "change": 1.0,
-      "changePct": 0.4098360655737705,
-      "volume": 25993324,
-      "updatedAt": "2026-10-22T22:59:42.823357+00:00"
+      "change": 5.5,
+      "changePct": 2.2964509394572024,
+      "volume": null,
+      "updatedAt": "2026-10-23T01:23:46.732139+00:00"
     },
     "2454": {
       "code": "2454",
       "name": "MediaTek Inc.",
       "price": 4010.0,
-      "change": -240.0,
-      "changePct": -5.647058823529412,
-      "volume": 5911652,
-      "updatedAt": "2026-10-22T22:59:42.959548+00:00"
+      "change": -195.0,
+      "changePct": -4.637336504161712,
+      "volume": null,
+      "updatedAt": "2026-10-23T01:23:46.887882+00:00"
     },
     "2382": {
       "code": "2382",
       "name": "Quanta Computer Inc.",
       "price": 322.0,
-      "change": 0.0,
-      "changePct": 0.0,
-      "volume": 8500970,
-      "updatedAt": "2026-10-22T22:59:43.048715+00:00"
+      "change": 7.5,
+      "changePct": 2.384737678855326,
+      "volume": null,
+      "updatedAt": "2026-10-23T01:23:47.031769+00:00"
     },
     "3037": {
       "code": "3037",
       "name": "Unimicron Technology Corp.",
       "price": 1085.0,
-      "change": -5.0,
-      "changePct": -0.45871559633027525,
-      "volume": 20532656,
-      "updatedAt": "2026-10-22T22:59:43.245498+00:00"
+      "change": -35.0,
+      "changePct": -3.125,
+      "volume": null,
+      "updatedAt": "2026-10-23T01:23:47.183998+00:00"
     }
   }
 }
