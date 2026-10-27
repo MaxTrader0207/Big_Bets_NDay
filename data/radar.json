@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-10-26T21:54:07.942679+00:00",
+  "updatedAt": "2026-10-27T01:11:30.187519+00:00",
   "quotes": {
     "2330": {
       "code": "2330",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
       "price": 2385.0,
-      "change": -35.0,
-      "changePct": -1.4462809917355373,
-      "volume": 0,
-      "updatedAt": "2026-10-26T21:54:07.404913+00:00"
+      "change": -20.0,
+      "changePct": -0.8316008316008316,
+      "volume": null,
+      "updatedAt": "2026-10-27T01:11:29.776668+00:00"
     },
     "2317": {
       "code": "2317",
       "name": "Hon Hai Precision Industry Co., Ltd.",
       "price": 245.0,
-      "change": 5.5,
-      "changePct": 2.2964509394572024,
-      "volume": 0,
-      "updatedAt": "2026-10-26T21:54:07.542572+00:00"
+      "change": 3.5,
+      "changePct": 1.4492753623188406,
+      "volume": null,
+      "updatedAt": "2026-10-27T01:11:29.873298+00:00"
     },
     "2454": {
       "code": "2454",
       "name": "MediaTek Inc.",
       "price": 4010.0,
-      "change": -195.0,
-      "changePct": -4.637336504161712,
-      "volume": 0,
-      "updatedAt": "2026-10-26T21:54:07.678220+00:00"
+      "change": -140.0,
+      "changePct": -3.3734939759036147,
+      "volume": null,
+      "updatedAt": "2026-10-27T01:11:30.002855+00:00"
     },
     "2382": {
       "code": "2382",
       "name": "Quanta Computer Inc.",
       "price": 322.0,
-      "change": 7.5,
-      "changePct": 2.384737678855326,
-      "volume": 0,
-      "updatedAt": "2026-10-26T21:54:07.815458+00:00"
+      "change": 1.5,
+      "changePct": 0.46801872074883,
+      "volume": null,
+      "updatedAt": "2026-10-27T01:11:30.086040+00:00"
     },
     "3037": {
       "code": "3037",
       "name": "Unimicron Technology Corp.",
       "price": 1085.0,
-      "change": -35.0,
-      "changePct": -3.125,
-      "volume": 0,
-      "updatedAt": "2026-10-26T21:54:07.942085+00:00"
+      "change": 30.0,
+      "changePct": 2.843601895734597,
+      "volume": null,
+      "updatedAt": "2026-10-27T01:11:30.186777+00:00"
     }
   }
 }
