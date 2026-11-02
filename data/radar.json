@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-11-02T02:32:05.859961+00:00",
+  "updatedAt": "2026-11-02T09:59:18.237626+00:00",
   "quotes": {
     "2330": {
       "code": "2330",
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "price": 2335.0,
-      "change": -65.0,
-      "changePct": -2.7083333333333335,
-      "volume": 18882441,
-      "updatedAt": "2026-11-02T02:32:05.269544+00:00"
+      "price": 2330.0,
+      "change": -70.0,
+      "changePct": -2.9166666666666665,
+      "volume": 38832588,
+      "updatedAt": "2026-11-02T09:59:17.497393+00:00"
     },
     "2317": {
       "code": "2317",
       "name": "Hon Hai Precision Industry Co., Ltd.",
-      "price": 249.0,
-      "change": 1.5,
-      "changePct": 0.6060606060606061,
-      "volume": 19514512,
-      "updatedAt": "2026-11-02T02:32:05.418229+00:00"
+      "price": 251.0,
+      "change": 3.5,
+      "changePct": 1.4141414141414141,
+      "volume": 49704545,
+      "updatedAt": "2026-11-02T09:59:17.674590+00:00"
     },
     "2454": {
       "code": "2454",
       "name": "MediaTek Inc.",
-      "price": 3975.0,
-      "change": 15.0,
-      "changePct": 0.3787878787878788,
-      "volume": 6860307,
-      "updatedAt": "2026-11-02T02:32:05.561710+00:00"
+      "price": 3970.0,
+      "change": 10.0,
+      "changePct": 0.25252525252525254,
+      "volume": 12208320,
+      "updatedAt": "2026-11-02T09:59:17.839277+00:00"
     },
     "2382": {
       "code": "2382",
       "name": "Quanta Computer Inc.",
-      "price": 318.5,
-      "change": -9.0,
-      "changePct": -2.7480916030534353,
-      "volume": 4212940,
-      "updatedAt": "2026-11-02T02:32:05.712207+00:00"
+      "price": 318.0,
+      "change": -9.5,
+      "changePct": -2.900763358778626,
+      "volume": 8102108,
+      "updatedAt": "2026-11-02T09:59:18.037674+00:00"
     },
     "3037": {
       "code": "3037",
       "name": "Unimicron Technology Corp.",
-      "price": 994.0,
-      "change": -66.0,
-      "changePct": -6.226415094339623,
-      "volume": 10893170,
-      "updatedAt": "2026-11-02T02:32:05.859086+00:00"
+      "price": 997.0,
+      "change": -63.0,
+      "changePct": -5.943396226415095,
+      "volume": 20722005,
+      "updatedAt": "2026-11-02T09:59:18.236886+00:00"
     }
   }
 }
